@@ -19,7 +19,7 @@ import flutter_list_pro.dart
 ```dart
 import 'package:flutter_list_pro/flutter_list_pro.dart';
 ```
-### code examole
+### code example
 
 ```dart
    child: ScrollHandler(
@@ -55,7 +55,7 @@ import 'package:flutter_list_pro/flutter_list_pro.dart';
 
 #### Screenshot example
 
-![Package demo](Screenshotweb.png)
-![Package demo](Screenshotmobile.png)
+![Package demo](screenshots/Screenshotweb.png)
+![Package demo](screenshots/Screenshotmobile.png)
 
 **Refer to [Git repo link ](https://github.com/moonraft-innovation-labs/flutter_list_pro) and the source code for more information.**
